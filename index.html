@@ -12,12 +12,21 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '',
+      name: 'Havenask indexlib 文档',
       repo: '',
       loadSidebar: true,
+      themeColor: '#3F51B5',
+      search: {
+        maxAge: 86400000,
+        placeholder: '搜索',
+        noData: '找不到结果',
+        depth: 6
+      },
+      ga: 'UA-XXXXX-Y' // 请替换为你的Google Analytics跟踪ID
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="https://cdn.jsdelivr.net/gh/827652549/docsify-count/dist/docsify-count.min.js"></script>
 </body>
 </html>
