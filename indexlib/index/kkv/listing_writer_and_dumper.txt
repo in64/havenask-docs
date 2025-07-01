@@ -1,0 +1,12 @@
+indexlib/index/kkv/kkv_data_dumper.h
+indexlib/index/kkv/kkv_index_dumper.h
+indexlib/index/kkv/kkv_value_dumper.h
+indexlib/index/kkv/kkv_value_writer.cpp
+indexlib/index/kkv/kkv_value_writer.h
+indexlib/index/kkv/normal_kkv_data_dumper.h
+indexlib/index/kkv/prefix_key_dumper.cpp
+indexlib/index/kkv/prefix_key_dumper.h
+indexlib/index/kkv/suffix_key_dumper.cpp
+indexlib/index/kkv/suffix_key_dumper.h
+indexlib/index/kkv/suffix_key_writer.h
+indexlib/index/kkv/value_inline_kkv_data_dumper.h

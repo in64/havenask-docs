@@ -1,0 +1,14 @@
+indexlib/index/normal/attribute/format/attribute_formatter.cpp
+indexlib/index/normal/attribute/format/attribute_formatter.h
+indexlib/index/normal/attribute/format/in_mem_single_value_attribute_formatter.h
+indexlib/index/normal/attribute/format/single_value_attribute_formatter.h
+indexlib/index/normal/attribute/format/single_value_attribute_patch_formatter.cpp
+indexlib/index/normal/attribute/format/single_value_attribute_patch_formatter.h
+indexlib/index/normal/attribute/format/single_value_data_appender.cpp
+indexlib/index/normal/attribute/format/single_value_data_appender.h
+indexlib/index/normal/attribute/format/single_value_null_attr_formatter.cpp
+indexlib/index/normal/attribute/format/single_value_null_attr_formatter.h
+indexlib/index/normal/attribute/format/updatable_var_num_attribute_offset_formatter.cpp
+indexlib/index/normal/attribute/format/updatable_var_num_attribute_offset_formatter.h
+indexlib/index/normal/attribute/format/var_num_attribute_data_formatter.cpp
+indexlib/index/normal/attribute/format/var_num_attribute_data_formatter.h

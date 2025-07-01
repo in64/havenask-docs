@@ -1,0 +1,15 @@
+indexlib/index/normal/adaptive_bitmap/adaptive_bitmap_index_writer.cpp
+indexlib/index/normal/adaptive_bitmap/adaptive_bitmap_index_writer.h
+indexlib/index/normal/adaptive_bitmap/adaptive_bitmap_index_writer_creator.cpp
+indexlib/index/normal/adaptive_bitmap/adaptive_bitmap_index_writer_creator.h
+indexlib/index/normal/adaptive_bitmap/adaptive_bitmap_trigger.h
+indexlib/index/normal/adaptive_bitmap/adaptive_bitmap_trigger_creator.cpp
+indexlib/index/normal/adaptive_bitmap/adaptive_bitmap_trigger_creator.h
+indexlib/index/normal/adaptive_bitmap/df_adaptive_bitmap_trigger.cpp
+indexlib/index/normal/adaptive_bitmap/df_adaptive_bitmap_trigger.h
+indexlib/index/normal/adaptive_bitmap/index_size_adaptive_bitmap_trigger.cpp
+indexlib/index/normal/adaptive_bitmap/index_size_adaptive_bitmap_trigger.h
+indexlib/index/normal/adaptive_bitmap/multi_adaptive_bitmap_index_writer.cpp
+indexlib/index/normal/adaptive_bitmap/multi_adaptive_bitmap_index_writer.h
+indexlib/index/normal/adaptive_bitmap/percent_adaptive_bitmap_trigger.cpp
+indexlib/index/normal/adaptive_bitmap/percent_adaptive_bitmap_trigger.h

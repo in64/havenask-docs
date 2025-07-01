@@ -1,0 +1,12 @@
+index/inverted_index/InplaceInvertedIndexModifier.cpp
+index/inverted_index/InplaceInvertedIndexModifier.h
+index/inverted_index/InvertedIndexMerger.cpp
+index/inverted_index/InvertedIndexMerger.h
+index/inverted_index/InvertedIndexModifier.h
+index/inverted_index/OneDocMerger.cpp
+index/inverted_index/OneDocMerger.h
+index/inverted_index/PatchInvertedIndexModifier.cpp
+index/inverted_index/PatchInvertedIndexModifier.h
+index/inverted_index/PostingMerger.h
+index/inverted_index/PostingMergerImpl.cpp
+index/inverted_index/PostingMergerImpl.h

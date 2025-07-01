@@ -1,0 +1,9 @@
+indexlib/index/kv/hash_table_fix_creator.cpp
+indexlib/index/kv/hash_table_fix_creator.h
+indexlib/index/kv/hash_table_fix_creator_impl.h
+indexlib/index/kv/hash_table_fix_merge_writer.cpp
+indexlib/index/kv/hash_table_fix_merge_writer.h
+indexlib/index/kv/hash_table_fix_segment_reader.cpp
+indexlib/index/kv/hash_table_fix_segment_reader.h
+indexlib/index/kv/hash_table_fix_writer.cpp
+indexlib/index/kv/hash_table_fix_writer.h

@@ -1,0 +1,12 @@
+indexlib/merger/kv_merge_work_item.h
+indexlib/merger/merge_meta_work_item.cpp
+indexlib/merger/merge_meta_work_item.h
+indexlib/merger/merge_work_item.cpp
+indexlib/merger/merge_work_item.h
+indexlib/merger/merge_work_item_creator.cpp
+indexlib/merger/merge_work_item_creator.h
+indexlib/merger/merge_work_item_typed.h
+indexlib/merger/segment_metric_update_work_item.cpp
+indexlib/merger/segment_metric_update_work_item.h
+indexlib/merger/table_merge_work_item.cpp
+indexlib/merger/table_merge_work_item.h

@@ -1,0 +1,8 @@
+index/kkv/building/BUILD
+index/kkv/building/BuildingSKeyIterator.h
+index/kkv/building/KKVBuildingSegmentIterator.h
+index/kkv/building/KKVBuildingSegmentReader.h
+index/kkv/building/KKVMemIndexer.cpp
+index/kkv/building/KKVMemIndexer.h
+index/kkv/building/KKVValueWriter.h
+index/kkv/building/SKeyWriter.h

@@ -1,0 +1,10 @@
+document/normal/IndexDocument.cpp
+document/normal/IndexDocument.h
+document/normal/ModifiedTokens.cpp
+document/normal/ModifiedTokens.h
+document/normal/SingleDocumentParser.cpp
+document/normal/SingleDocumentParser.h
+document/normal/Token.cpp
+document/normal/Token.h
+document/normal/TokenizeDocumentConvertor.cpp
+document/normal/TokenizeDocumentConvertor.h

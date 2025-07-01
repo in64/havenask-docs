@@ -1,0 +1,15 @@
+indexlib/index/normal/inverted_index/accessor/in_mem_multi_sharding_index_segment_reader.cpp
+indexlib/index/normal/inverted_index/accessor/in_mem_multi_sharding_index_segment_reader.h
+indexlib/index/normal/inverted_index/accessor/in_mem_normal_index_segment_reader.cpp
+indexlib/index/normal/inverted_index/accessor/in_mem_normal_index_segment_reader.h
+indexlib/index/normal/inverted_index/accessor/index_accessory_reader.cpp
+indexlib/index/normal/inverted_index/accessor/index_accessory_reader.h
+indexlib/index/normal/inverted_index/accessor/index_patch_iterator.h
+indexlib/index/normal/inverted_index/accessor/multi_field_index_reader.cpp
+indexlib/index/normal/inverted_index/accessor/multi_field_index_reader.h
+indexlib/index/normal/inverted_index/accessor/multi_sharding_index_reader.cpp
+indexlib/index/normal/inverted_index/accessor/multi_sharding_index_reader.h
+indexlib/index/normal/inverted_index/accessor/normal_index_reader.cpp
+indexlib/index/normal/inverted_index/accessor/normal_index_reader.h
+indexlib/index/normal/inverted_index/accessor/normal_index_segment_reader.cpp
+indexlib/index/normal/inverted_index/accessor/normal_index_segment_reader.h

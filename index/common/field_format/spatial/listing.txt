@@ -1,0 +1,13 @@
+index/common/field_format/spatial/BUILD
+index/common/field_format/spatial/Cell.cpp
+index/common/field_format/spatial/Cell.h
+index/common/field_format/spatial/DistanceUtil.cpp
+index/common/field_format/spatial/DistanceUtil.h
+index/common/field_format/spatial/LocationIndexQueryStrategy.cpp
+index/common/field_format/spatial/LocationIndexQueryStrategy.h
+index/common/field_format/spatial/QueryStrategy.cpp
+index/common/field_format/spatial/QueryStrategy.h
+index/common/field_format/spatial/ShapeIndexQueryStrategy.cpp
+index/common/field_format/spatial/ShapeIndexQueryStrategy.h
+index/common/field_format/spatial/SpatialFieldEncoder.cpp
+index/common/field_format/spatial/SpatialFieldEncoder.h

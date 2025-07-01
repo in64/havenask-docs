@@ -1,0 +1,17 @@
+indexlib/index_base/patch/multi_part_patch_finder.cpp
+indexlib/index_base/patch/multi_part_patch_finder.h
+indexlib/index_base/patch/partition_patch_index_accessor.cpp
+indexlib/index_base/patch/partition_patch_index_accessor.h
+indexlib/index_base/patch/partition_patch_meta.cpp
+indexlib/index_base/patch/partition_patch_meta.h
+indexlib/index_base/patch/partition_patch_meta_creator.cpp
+indexlib/index_base/patch/partition_patch_meta_creator.h
+indexlib/index_base/patch/patch_file_filter.cpp
+indexlib/index_base/patch/patch_file_filter.h
+indexlib/index_base/patch/patch_file_finder.cpp
+indexlib/index_base/patch/patch_file_finder.h
+indexlib/index_base/patch/patch_file_finder_creator.cpp
+indexlib/index_base/patch/patch_file_finder_creator.h
+indexlib/index_base/patch/patch_file_info.h
+indexlib/index_base/patch/single_part_patch_finder.cpp
+indexlib/index_base/patch/single_part_patch_finder.h

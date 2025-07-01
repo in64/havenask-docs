@@ -1,0 +1,11 @@
+index/field_meta/meta/BUILD
+index/field_meta/meta/DataStatisticsMeta.cpp
+index/field_meta/meta/DataStatisticsMeta.h
+index/field_meta/meta/FieldTokenCountMeta.cpp
+index/field_meta/meta/FieldTokenCountMeta.h
+index/field_meta/meta/HistogramMeta.cpp
+index/field_meta/meta/HistogramMeta.h
+index/field_meta/meta/IFieldMeta.h
+index/field_meta/meta/MetaFactory.cpp
+index/field_meta/meta/MetaFactory.h
+index/field_meta/meta/MinMaxFieldMeta.h

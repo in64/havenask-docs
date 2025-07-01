@@ -1,0 +1,7 @@
+index/inverted_index/builtin_index/spatial/BUILD
+index/inverted_index/builtin_index/spatial/SpatialDocValueFilter.h
+index/inverted_index/builtin_index/spatial/SpatialIndexMerger.h
+index/inverted_index/builtin_index/spatial/SpatialIndexReader.cpp
+index/inverted_index/builtin_index/spatial/SpatialIndexReader.h
+index/inverted_index/builtin_index/spatial/SpatialPostingIterator.cpp
+index/inverted_index/builtin_index/spatial/SpatialPostingIterator.h

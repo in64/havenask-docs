@@ -1,0 +1,3 @@
+indexlib/document/extend_document/tokenize/analyzer_token.h
+indexlib/document/extend_document/tokenize/tokenize_field.h
+indexlib/document/extend_document/tokenize/tokenize_section.h

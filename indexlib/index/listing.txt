@@ -1,0 +1,3 @@
+indexlib/index/BUILD
+indexlib/index/partition_info.cpp
+indexlib/index/partition_info.h

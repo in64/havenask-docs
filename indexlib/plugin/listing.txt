@@ -1,0 +1,12 @@
+indexlib/plugin/DllWrapper.cpp
+indexlib/plugin/DllWrapper.h
+indexlib/plugin/Module.cpp
+indexlib/plugin/Module.h
+indexlib/plugin/ModuleFactory.h
+indexlib/plugin/index_plugin_loader.cpp
+indexlib/plugin/index_plugin_loader.h
+indexlib/plugin/module_factory_wrapper.h
+indexlib/plugin/plugin_factory_loader.cpp
+indexlib/plugin/plugin_factory_loader.h
+indexlib/plugin/plugin_manager.cpp
+indexlib/plugin/plugin_manager.h

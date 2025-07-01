@@ -1,0 +1,11 @@
+framework/cleaner/BUILD
+framework/cleaner/DropIndexCleaner.cpp
+framework/cleaner/DropIndexCleaner.h
+framework/cleaner/InMemoryIndexCleaner.cpp
+framework/cleaner/InMemoryIndexCleaner.h
+framework/cleaner/OnDiskIndexCleaner.cpp
+framework/cleaner/OnDiskIndexCleaner.h
+framework/cleaner/ResourceCleaner.cpp
+framework/cleaner/ResourceCleaner.h
+framework/cleaner/TabletReaderCleaner.cpp
+framework/cleaner/TabletReaderCleaner.h

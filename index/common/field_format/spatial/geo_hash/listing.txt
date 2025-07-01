@@ -1,0 +1,4 @@
+index/common/field_format/spatial/geo_hash/GeoHashUtil.cpp
+index/common/field_format/spatial/geo_hash/GeoHashUtil.h
+index/common/field_format/spatial/geo_hash/geohash.cpp
+index/common/field_format/spatial/geo_hash/geohash.h

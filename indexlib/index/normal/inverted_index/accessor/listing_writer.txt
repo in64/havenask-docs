@@ -1,0 +1,10 @@
+indexlib/index/normal/inverted_index/accessor/in_memory_index_segment_writer.cpp
+indexlib/index/normal/inverted_index/accessor/in_memory_index_segment_writer.h
+indexlib/index/normal/inverted_index/accessor/multi_segment_posting_writer.cpp
+indexlib/index/normal/inverted_index/accessor/multi_segment_posting_writer.h
+indexlib/index/normal/inverted_index/accessor/multi_sharding_index_writer.cpp
+indexlib/index/normal/inverted_index/accessor/multi_sharding_index_writer.h
+indexlib/index/normal/inverted_index/accessor/normal_index_writer.cpp
+indexlib/index/normal/inverted_index/accessor/normal_index_writer.h
+indexlib/index/normal/inverted_index/accessor/section_attribute_writer.cpp
+indexlib/index/normal/inverted_index/accessor/section_attribute_writer.h

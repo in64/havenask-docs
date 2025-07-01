@@ -1,0 +1,14 @@
+index/attribute/expression/AtomicAttributeExpression.h
+index/attribute/expression/AtomicExpressionCreator.cpp
+index/attribute/expression/AtomicExpressionCreator.h
+index/attribute/expression/AttributePrefetcher.h
+index/attribute/expression/BUILD
+index/attribute/expression/BuiltinFunctionFactory.cpp
+index/attribute/expression/BuiltinFunctionFactory.h
+index/attribute/expression/BuiltinFunctionInterface.h
+index/attribute/expression/DocumentEvaluator.h
+index/attribute/expression/DocumentEvaluatorMaintainer.cpp
+index/attribute/expression/DocumentEvaluatorMaintainer.h
+index/attribute/expression/FunctionConfig.cpp
+index/attribute/expression/FunctionConfig.h
+index/attribute/expression/TabletSessionResource.h

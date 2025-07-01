@@ -1,0 +1,2 @@
+indexlib/common/field_format/customized_index/customized_index_field_encoder.cpp
+indexlib/common/field_format/customized_index/customized_index_field_encoder.h

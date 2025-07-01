@@ -1,0 +1,3 @@
+index/attribute/format/MultiValueAttributeDataFormatter.cpp
+index/attribute/format/MultiValueAttributeDataFormatter.h
+index/attribute/format/MultiValueAttributeOffsetUpdatableFormatter.h

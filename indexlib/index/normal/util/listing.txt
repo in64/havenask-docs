@@ -1,0 +1,9 @@
+indexlib/index/normal/util/BUILD
+indexlib/index/normal/util/build_work_item.cpp
+indexlib/index/normal/util/build_work_item.h
+indexlib/index/normal/util/index_metrics_base.h
+indexlib/index/normal/util/patch_work_item.cpp
+indexlib/index/normal/util/patch_work_item.h
+indexlib/index/normal/util/segment_base_doc_id_info.h
+indexlib/index/normal/util/segment_file_compress_util.h
+indexlib/index/normal/util/segment_modifier_container.h

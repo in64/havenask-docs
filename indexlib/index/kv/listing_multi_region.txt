@@ -1,0 +1,4 @@
+indexlib/index/kv/multi_region_info.h
+indexlib/index/kv/multi_region_kv_reader.cpp
+indexlib/index/kv/multi_region_kv_reader.h
+indexlib/index/kv/multi_region_special_value.h

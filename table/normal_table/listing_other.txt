@@ -1,0 +1,8 @@
+table/normal_table/Common.h
+table/normal_table/DimensionDescription.cpp
+table/normal_table/DimensionDescription.h
+table/normal_table/NormalSchemaResolver.cpp
+table/normal_table/NormalSchemaResolver.h
+table/normal_table/NormalTableFactory.cpp
+table/normal_table/NormalTableFactory.h
+table/normal_table/SortedDocIdRangeSearcher.h

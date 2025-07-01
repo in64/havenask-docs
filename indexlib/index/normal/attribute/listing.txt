@@ -1,0 +1,14 @@
+indexlib/index/normal/attribute/BUILD
+indexlib/index/normal/attribute/attribute_metrics.cpp
+indexlib/index/normal/attribute/attribute_metrics.h
+indexlib/index/normal/attribute/attribute_update_bitmap.cpp
+indexlib/index/normal/attribute/attribute_update_bitmap.h
+indexlib/index/normal/attribute/attribute_update_info.cpp
+indexlib/index/normal/attribute/attribute_update_info.h
+indexlib/index/normal/attribute/default_attribute_field_appender.cpp
+indexlib/index/normal/attribute/default_attribute_field_appender.h
+indexlib/index/normal/attribute/segment_update_bitmap.h
+indexlib/index/normal/attribute/update_field_extractor.cpp
+indexlib/index/normal/attribute/update_field_extractor.h
+indexlib/index/normal/attribute/virtual_attribute_data_appender.cpp
+indexlib/index/normal/attribute/virtual_attribute_data_appender.h

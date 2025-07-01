@@ -1,0 +1,15 @@
+index/attribute/format/AttributeFormatter.cpp
+index/attribute/format/AttributeFormatter.h
+index/attribute/format/BUILD
+index/attribute/format/SingleEncodedNullValue.h
+index/attribute/format/SingleValueAttributeFormatter.h
+index/attribute/format/SingleValueAttributeMemFormatter.h
+index/attribute/format/SingleValueAttributePatchFormatter.cpp
+index/attribute/format/SingleValueAttributePatchFormatter.h
+index/attribute/format/SingleValueAttributeReadOnlyFormatter.h
+index/attribute/format/SingleValueAttributeUpdatableFormatter.h
+index/attribute/format/SingleValueDataAppender.cpp
+index/attribute/format/SingleValueDataAppender.h
+index/attribute/format/SingleValueNullAttributeFormatter.h
+index/attribute/format/SingleValueNullAttributeReadOnlyFormatter.h
+index/attribute/format/SingleValueNullAttributeUpdatableFormatter.h

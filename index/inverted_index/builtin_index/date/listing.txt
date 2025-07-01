@@ -1,0 +1,17 @@
+index/inverted_index/builtin_index/date/BUILD
+index/inverted_index/builtin_index/date/BuildingDateIndexReader.cpp
+index/inverted_index/builtin_index/date/BuildingDateIndexReader.h
+index/inverted_index/builtin_index/date/DateDiskIndexer.cpp
+index/inverted_index/builtin_index/date/DateDiskIndexer.h
+index/inverted_index/builtin_index/date/DateIndexMerger.cpp
+index/inverted_index/builtin_index/date/DateIndexMerger.h
+index/inverted_index/builtin_index/date/DateIndexReader.cpp
+index/inverted_index/builtin_index/date/DateIndexReader.h
+index/inverted_index/builtin_index/date/DateLeafMemReader.cpp
+index/inverted_index/builtin_index/date/DateLeafMemReader.h
+index/inverted_index/builtin_index/date/DateLeafReader.cpp
+index/inverted_index/builtin_index/date/DateLeafReader.h
+index/inverted_index/builtin_index/date/DateMemIndexer.cpp
+index/inverted_index/builtin_index/date/DateMemIndexer.h
+index/inverted_index/builtin_index/date/TimeRangeInfo.cpp
+index/inverted_index/builtin_index/date/TimeRangeInfo.h

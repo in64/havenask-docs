@@ -1,0 +1,13 @@
+framework/IMemoryControlStrategy.h
+framework/IMetrics.h
+framework/IResource.h
+framework/ITablet.h
+framework/ITabletDocIterator.h
+framework/ITabletExporter.h
+framework/ITabletFactory.h
+framework/ITabletImporter.h
+framework/ITabletLoader.h
+framework/ITabletMergeController.h
+framework/ITabletPortal.h
+framework/ITabletReader.h
+framework/ITabletValidator.h

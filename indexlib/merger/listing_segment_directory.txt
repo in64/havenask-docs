@@ -1,0 +1,6 @@
+indexlib/merger/multi_part_segment_directory.cpp
+indexlib/merger/multi_part_segment_directory.h
+indexlib/merger/segment_directory.cpp
+indexlib/merger/segment_directory.h
+indexlib/merger/segment_directory_finder.cpp
+indexlib/merger/segment_directory_finder.h

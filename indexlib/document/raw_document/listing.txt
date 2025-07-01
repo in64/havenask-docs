@@ -1,0 +1,7 @@
+indexlib/document/raw_document/default_raw_doc_field_iterator.cpp
+indexlib/document/raw_document/default_raw_doc_field_iterator.h
+indexlib/document/raw_document/default_raw_document.h
+indexlib/document/raw_document/ha3_doc_formatter.h
+indexlib/document/raw_document/key_map.h
+indexlib/document/raw_document/key_map_manager.h
+indexlib/document/raw_document/raw_document_define.h

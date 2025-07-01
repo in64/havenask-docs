@@ -1,0 +1,16 @@
+indexlib/merger/split_strategy/default_range_split_strategy.cpp
+indexlib/merger/split_strategy/default_range_split_strategy.h
+indexlib/merger/split_strategy/default_split_strategy.cpp
+indexlib/merger/split_strategy/default_split_strategy.h
+indexlib/merger/split_strategy/simple_split_strategy.cpp
+indexlib/merger/split_strategy/simple_split_strategy.h
+indexlib/merger/split_strategy/split_segment_strategy.cpp
+indexlib/merger/split_strategy/split_segment_strategy.h
+indexlib/merger/split_strategy/split_segment_strategy_factory.cpp
+indexlib/merger/split_strategy/split_segment_strategy_factory.h
+indexlib/merger/split_strategy/temperature_split_strategy.cpp
+indexlib/merger/split_strategy/temperature_split_strategy.h
+indexlib/merger/split_strategy/test_split_strategy.cpp
+indexlib/merger/split_strategy/test_split_strategy.h
+indexlib/merger/split_strategy/time_series_split_strategy.cpp
+indexlib/merger/split_strategy/time_series_split_strategy.h

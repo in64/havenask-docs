@@ -1,0 +1,4 @@
+index/inverted_index/merge/BUILD
+index/inverted_index/merge/SimpleDocMapper.h
+index/inverted_index/merge/SimpleInvertedIndexMerger.cpp
+index/inverted_index/merge/SimpleInvertedIndexMerger.h

@@ -1,0 +1,16 @@
+indexlib/index/normal/inverted_index/builtin_index/range/building_range_index_reader.cpp
+indexlib/index/normal/inverted_index/builtin_index/range/building_range_index_reader.h
+indexlib/index/normal/inverted_index/builtin_index/range/on_disk_range_index_iterator_creator.cpp
+indexlib/index/normal/inverted_index/builtin_index/range/on_disk_range_index_iterator_creator.h
+indexlib/index/normal/inverted_index/builtin_index/range/range_in_mem_segment_reader.cpp
+indexlib/index/normal/inverted_index/builtin_index/range/range_in_mem_segment_reader.h
+indexlib/index/normal/inverted_index/builtin_index/range/range_index_merger.cpp
+indexlib/index/normal/inverted_index/builtin_index/range/range_index_merger.h
+indexlib/index/normal/inverted_index/builtin_index/range/range_index_reader.cpp
+indexlib/index/normal/inverted_index/builtin_index/range/range_index_reader.h
+indexlib/index/normal/inverted_index/builtin_index/range/range_index_segment_reader.cpp
+indexlib/index/normal/inverted_index/builtin_index/range/range_index_segment_reader.h
+indexlib/index/normal/inverted_index/builtin_index/range/range_index_writer.cpp
+indexlib/index/normal/inverted_index/builtin_index/range/range_index_writer.h
+indexlib/index/normal/inverted_index/builtin_index/range/range_level_segment_reader.cpp
+indexlib/index/normal/inverted_index/builtin_index/range/range_level_segment_reader.h

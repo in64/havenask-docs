@@ -1,0 +1,2 @@
+indexlib/document/document_parser/line_data_parser/line_data_document_parser.cpp
+indexlib/document/document_parser/line_data_parser/line_data_document_parser.h

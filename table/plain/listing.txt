@@ -1,0 +1,14 @@
+table/plain/BUILD
+table/plain/MultiShardDiskSegment.cpp
+table/plain/MultiShardDiskSegment.h
+table/plain/MultiShardMemSegment.cpp
+table/plain/MultiShardMemSegment.h
+table/plain/MultiShardSegmentMetrics.h
+table/plain/PlainDiskSegment.cpp
+table/plain/PlainDiskSegment.h
+table/plain/PlainDumpItem.cpp
+table/plain/PlainDumpItem.h
+table/plain/PlainMemSegment.cpp
+table/plain/PlainMemSegment.h
+table/plain/SegmentMetricsDumpItem.cpp
+table/plain/SegmentMetricsDumpItem.h

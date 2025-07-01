@@ -1,0 +1,15 @@
+indexlib/index/normal/trie/building_trie_index_reader.h
+indexlib/index/normal/trie/double_array_trie.cpp
+indexlib/index/normal/trie/double_array_trie.h
+indexlib/index/normal/trie/in_mem_trie_segment_reader.cpp
+indexlib/index/normal/trie/in_mem_trie_segment_reader.h
+indexlib/index/normal/trie/trie_index_define.h
+indexlib/index/normal/trie/trie_index_iterator.h
+indexlib/index/normal/trie/trie_index_merger.cpp
+indexlib/index/normal/trie/trie_index_merger.h
+indexlib/index/normal/trie/trie_index_reader.cpp
+indexlib/index/normal/trie/trie_index_reader.h
+indexlib/index/normal/trie/trie_index_segment_reader.cpp
+indexlib/index/normal/trie/trie_index_segment_reader.h
+indexlib/index/normal/trie/trie_index_writer.cpp
+indexlib/index/normal/trie/trie_index_writer.h

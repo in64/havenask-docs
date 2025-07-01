@@ -1,0 +1,9 @@
+indexlib/index/normal/inverted_index/builtin_index/bitmap/bitmap_index_reader.cpp
+indexlib/index/normal/inverted_index/builtin_index/bitmap/bitmap_index_reader.h
+indexlib/index/normal/inverted_index/builtin_index/bitmap/bitmap_index_sorted_queue_item.cpp
+indexlib/index/normal/inverted_index/builtin_index/bitmap/bitmap_index_sorted_queue_item.h
+indexlib/index/normal/inverted_index/builtin_index/bitmap/bitmap_posting_merge_param.h
+indexlib/index/normal/inverted_index/builtin_index/bitmap/bitmap_posting_merger.cpp
+indexlib/index/normal/inverted_index/builtin_index/bitmap/bitmap_posting_merger.h
+indexlib/index/normal/inverted_index/builtin_index/bitmap/multi_segment_bitmap_posting_writer.cpp
+indexlib/index/normal/inverted_index/builtin_index/bitmap/multi_segment_bitmap_posting_writer.h

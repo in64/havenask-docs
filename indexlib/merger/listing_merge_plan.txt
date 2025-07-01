@@ -1,0 +1,5 @@
+indexlib/merger/merge_plan.cpp
+indexlib/merger/merge_plan.h
+indexlib/merger/merge_plan_meta.cpp
+indexlib/merger/merge_plan_meta.h
+indexlib/merger/merge_plan_resource.h

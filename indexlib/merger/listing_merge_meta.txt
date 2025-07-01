@@ -1,0 +1,14 @@
+indexlib/merger/index_merge_meta.cpp
+indexlib/merger/index_merge_meta.h
+indexlib/merger/index_table_merge_meta_creator.cpp
+indexlib/merger/index_table_merge_meta_creator.h
+indexlib/merger/key_value_merge_meta_creator.cpp
+indexlib/merger/key_value_merge_meta_creator.h
+indexlib/merger/merge_meta.cpp
+indexlib/merger/merge_meta.h
+indexlib/merger/merge_meta_creator.cpp
+indexlib/merger/merge_meta_creator.h
+indexlib/merger/merge_meta_creator_factory.cpp
+indexlib/merger/merge_meta_creator_factory.h
+indexlib/merger/table_merge_meta.cpp
+indexlib/merger/table_merge_meta.h

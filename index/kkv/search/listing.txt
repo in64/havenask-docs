@@ -1,0 +1,14 @@
+index/kkv/search/BUILD
+index/kkv/search/BufferedKKVIteratorImpl.h
+index/kkv/search/KKVCacheItem.h
+index/kkv/search/KKVIndexReader.cpp
+index/kkv/search/KKVIndexReader.h
+index/kkv/search/KKVIterator.cpp
+index/kkv/search/KKVIterator.h
+index/kkv/search/KKVIteratorImplBase.h
+index/kkv/search/KKVMetricsRecorder.cpp
+index/kkv/search/KKVMetricsRecorder.h
+index/kkv/search/KKVSearchCoroutine.h
+index/kkv/search/NormalKKVIteratorImpl.h
+index/kkv/search/SearchCacheContext.h
+index/kkv/search/SearchContext.h

@@ -1,0 +1,12 @@
+indexlib/index/normal/framework/BUILD
+indexlib/index/normal/framework/index_merger.cpp
+indexlib/index/normal/framework/index_merger.h
+indexlib/index/normal/framework/index_merger_creator.h
+indexlib/index/normal/framework/index_writer.cpp
+indexlib/index/normal/framework/index_writer.h
+indexlib/index/normal/framework/legacy_index_reader.cpp
+indexlib/index/normal/framework/legacy_index_reader.h
+indexlib/index/normal/framework/legacy_index_reader_interface.h
+indexlib/index/normal/framework/merger_interface.cpp
+indexlib/index/normal/framework/merger_interface.h
+indexlib/index/normal/framework/multi_field_index_segment_reader.h

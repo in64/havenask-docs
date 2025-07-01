@@ -1,0 +1,14 @@
+indexlib/partition/BUILD
+indexlib/partition/index_application.cpp
+indexlib/partition/index_application.h
+indexlib/partition/index_partition.cpp
+indexlib/partition/index_partition.h
+indexlib/partition/index_partition_creator.cpp
+indexlib/partition/index_partition_creator.h
+indexlib/partition/index_partition_resource.cpp
+indexlib/partition/index_partition_resource.h
+indexlib/partition/partition_define.h
+indexlib/partition/partition_group_resource.cpp
+indexlib/partition/partition_group_resource.h
+indexlib/partition/partition_version.cpp
+indexlib/partition/partition_version.h

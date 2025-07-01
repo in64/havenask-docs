@@ -1,0 +1,17 @@
+util/memory_control/BUILD
+util/memory_control/BlockMemoryQuotaController.cpp
+util/memory_control/BlockMemoryQuotaController.h
+util/memory_control/BuildResourceCalculator.h
+util/memory_control/BuildResourceMetrics.cpp
+util/memory_control/BuildResourceMetrics.h
+util/memory_control/MemoryQuotaController.h
+util/memory_control/MemoryQuotaControllerCreator.h
+util/memory_control/MemoryQuotaSynchronizer.cpp
+util/memory_control/MemoryQuotaSynchronizer.h
+util/memory_control/MemoryReserver.cpp
+util/memory_control/MemoryReserver.h
+util/memory_control/PartitionMemoryQuotaController.h
+util/memory_control/QuotaControl.cpp
+util/memory_control/QuotaControl.h
+util/memory_control/SimpleMemoryQuotaController.h
+util/memory_control/WaitMemoryQuotaController.h

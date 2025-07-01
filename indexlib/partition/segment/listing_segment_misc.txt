@@ -1,0 +1,7 @@
+indexlib/partition/segment/BUILD
+indexlib/partition/segment/compress_ratio_calculator.cpp
+indexlib/partition/segment/compress_ratio_calculator.h
+indexlib/partition/segment/segment_data_creator.cpp
+indexlib/partition/segment/segment_data_creator.h
+indexlib/partition/segment/segment_sync_item.cpp
+indexlib/partition/segment/segment_sync_item.h

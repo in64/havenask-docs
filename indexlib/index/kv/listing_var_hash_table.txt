@@ -1,0 +1,11 @@
+indexlib/index/kv/hash_table_var_creator.cpp
+indexlib/index/kv/hash_table_var_creator.h
+indexlib/index/kv/hash_table_var_merge_writer.cpp
+indexlib/index/kv/hash_table_var_merge_writer.h
+indexlib/index/kv/hash_table_var_segment_iterator.h
+indexlib/index/kv/hash_table_var_segment_reader.cpp
+indexlib/index/kv/hash_table_var_segment_reader.h
+indexlib/index/kv/hash_table_var_writer.cpp
+indexlib/index/kv/hash_table_var_writer.h
+indexlib/index/kv/hash_table_compress_var_segment_reader.cpp
+indexlib/index/kv/hash_table_compress_var_segment_reader.h

@@ -1,0 +1,8 @@
+indexlib/index/merger_util/reclaim_map/reclaim_map_creator.cpp
+indexlib/index/merger_util/reclaim_map/reclaim_map_creator.h
+indexlib/index/merger_util/reclaim_map/sorted_reclaim_map_creator.cpp
+indexlib/index/merger_util/reclaim_map/sorted_reclaim_map_creator.h
+indexlib/index/merger_util/reclaim_map/sub_reclaim_map_creator.cpp
+indexlib/index/merger_util/reclaim_map/sub_reclaim_map_creator.h
+indexlib/index/merger_util/reclaim_map/weighted_doc_iterator.cpp
+indexlib/index/merger_util/reclaim_map/weighted_doc_iterator.h

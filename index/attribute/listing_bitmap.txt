@@ -1,0 +1,6 @@
+index/attribute/AttributeUpdateBitmap.cpp
+index/attribute/AttributeUpdateBitmap.h
+index/attribute/MultiValueAttributeDefragSliceArray.cpp
+index/attribute/MultiValueAttributeDefragSliceArray.h
+index/attribute/SegmentUpdateBitmap.cpp
+index/attribute/SegmentUpdateBitmap.h

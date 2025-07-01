@@ -1,0 +1,9 @@
+document/normal/tokenize/AnalyzerToken.cpp
+document/normal/tokenize/AnalyzerToken.h
+document/normal/tokenize/BUILD
+document/normal/tokenize/TokenizeDocument.cpp
+document/normal/tokenize/TokenizeDocument.h
+document/normal/tokenize/TokenizeField.cpp
+document/normal/tokenize/TokenizeField.h
+document/normal/tokenize/TokenizeSection.cpp
+document/normal/tokenize/TokenizeSection.h

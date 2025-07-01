@@ -1,0 +1,8 @@
+indexlib/tools/partition_querier/executors/AttrHelper.cpp
+indexlib/tools/partition_querier/executors/AttrHelper.h
+indexlib/tools/partition_querier/executors/IndexTableExecutor.cpp
+indexlib/tools/partition_querier/executors/IndexTableExecutor.h
+indexlib/tools/partition_querier/executors/KkvTableExecutor.cpp
+indexlib/tools/partition_querier/executors/KkvTableExecutor.h
+indexlib/tools/partition_querier/executors/KvTableExecutor.cpp
+indexlib/tools/partition_querier/executors/KvTableExecutor.h

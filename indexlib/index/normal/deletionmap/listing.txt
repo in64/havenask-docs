@@ -1,0 +1,14 @@
+indexlib/index/normal/deletionmap/BUILD
+indexlib/index/normal/deletionmap/deletion_map_dump_item.cpp
+indexlib/index/normal/deletionmap/deletion_map_dump_item.h
+indexlib/index/normal/deletionmap/deletion_map_merger.cpp
+indexlib/index/normal/deletionmap/deletion_map_merger.h
+indexlib/index/normal/deletionmap/deletion_map_reader.cpp
+indexlib/index/normal/deletionmap/deletion_map_reader.h
+indexlib/index/normal/deletionmap/deletion_map_reader_adaptor.h
+indexlib/index/normal/deletionmap/deletion_map_segment_writer.cpp
+indexlib/index/normal/deletionmap/deletion_map_segment_writer.h
+indexlib/index/normal/deletionmap/deletion_map_writer.cpp
+indexlib/index/normal/deletionmap/deletion_map_writer.h
+indexlib/index/normal/deletionmap/in_mem_deletion_map_reader.cpp
+indexlib/index/normal/deletionmap/in_mem_deletion_map_reader.h

@@ -1,0 +1,8 @@
+indexlib/index/normal/accessor/group_field_data_merger.cpp
+indexlib/index/normal/accessor/group_field_data_merger.h
+indexlib/index/normal/accessor/group_field_data_writer.cpp
+indexlib/index/normal/accessor/group_field_data_writer.h
+indexlib/index/normal/accessor/patch_file_merger.cpp
+indexlib/index/normal/accessor/patch_file_merger.h
+indexlib/index/normal/accessor/patch_merger.cpp
+indexlib/index/normal/accessor/patch_merger.h

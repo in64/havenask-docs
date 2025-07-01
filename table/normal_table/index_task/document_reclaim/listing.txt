@@ -1,0 +1,10 @@
+table/normal_table/index_task/document_reclaim/AndIndexReclaimer.cpp
+table/normal_table/index_task/document_reclaim/AndIndexReclaimer.h
+table/normal_table/index_task/document_reclaim/BUILD
+table/normal_table/index_task/document_reclaim/IndexFieldReclaimer.cpp
+table/normal_table/index_task/document_reclaim/IndexFieldReclaimer.h
+table/normal_table/index_task/document_reclaim/IndexReclaimer.h
+table/normal_table/index_task/document_reclaim/IndexReclaimerCreator.cpp
+table/normal_table/index_task/document_reclaim/IndexReclaimerCreator.h
+table/normal_table/index_task/document_reclaim/IndexReclaimerParam.cpp
+table/normal_table/index_task/document_reclaim/IndexReclaimerParam.h

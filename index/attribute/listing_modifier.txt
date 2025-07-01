@@ -1,0 +1,9 @@
+index/attribute/AttributeModifier.h
+index/attribute/AttributePatchWriter.cpp
+index/attribute/AttributePatchWriter.h
+index/attribute/InplaceAttributeModifier.cpp
+index/attribute/InplaceAttributeModifier.h
+index/attribute/PatchAttributeModifier.cpp
+index/attribute/PatchAttributeModifier.h
+index/attribute/UpdateFieldExtractor.cpp
+index/attribute/UpdateFieldExtractor.h

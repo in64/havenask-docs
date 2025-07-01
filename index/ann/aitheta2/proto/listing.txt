@@ -1,0 +1,1 @@
+index/ann/aitheta2/proto/AithetaQuery.proto

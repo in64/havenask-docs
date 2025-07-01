@@ -1,0 +1,11 @@
+indexlib/index/normal/inverted_index/builtin_index/date/building_date_index_reader.cpp
+indexlib/index/normal/inverted_index/builtin_index/date/building_date_index_reader.h
+indexlib/index/normal/inverted_index/builtin_index/date/date_in_mem_segment_reader.cpp
+indexlib/index/normal/inverted_index/builtin_index/date/date_in_mem_segment_reader.h
+indexlib/index/normal/inverted_index/builtin_index/date/date_index_merger.h
+indexlib/index/normal/inverted_index/builtin_index/date/date_index_reader.cpp
+indexlib/index/normal/inverted_index/builtin_index/date/date_index_reader.h
+indexlib/index/normal/inverted_index/builtin_index/date/date_index_segment_reader.cpp
+indexlib/index/normal/inverted_index/builtin_index/date/date_index_segment_reader.h
+indexlib/index/normal/inverted_index/builtin_index/date/date_index_writer.cpp
+indexlib/index/normal/inverted_index/builtin_index/date/date_index_writer.h

@@ -1,0 +1,6 @@
+index/kv/AdapterIgnoreFieldCalculator.cpp
+index/kv/AdapterIgnoreFieldCalculator.h
+index/kv/AdapterKVSegmentIterator.cpp
+index/kv/AdapterKVSegmentIterator.h
+index/kv/AdapterKVSegmentReader.cpp
+index/kv/AdapterKVSegmentReader.h

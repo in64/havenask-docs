@@ -1,0 +1,8 @@
+document/document_rewriter/BUILD
+document/document_rewriter/DocumentInfoToAttributeRewriter.cpp
+document/document_rewriter/DocumentInfoToAttributeRewriter.h
+document/document_rewriter/DocumentRewriteChain.cpp
+document/document_rewriter/DocumentRewriteChain.h
+document/document_rewriter/IDocumentRewriter.h
+document/document_rewriter/TTLSetter.cpp
+document/document_rewriter/TTLSetter.h

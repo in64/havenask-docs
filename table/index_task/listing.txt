@@ -1,0 +1,10 @@
+table/index_task/BUILD
+table/index_task/ComplexIndexTaskPlanCreator.cpp
+table/index_task/ComplexIndexTaskPlanCreator.h
+table/index_task/IndexTaskConstant.h
+table/index_task/LocalTabletMergeController.cpp
+table/index_task/LocalTabletMergeController.h
+table/index_task/SimpleIndexTaskPlanCreator.cpp
+table/index_task/SimpleIndexTaskPlanCreator.h
+table/index_task/VersionResource.cpp
+table/index_task/VersionResource.h

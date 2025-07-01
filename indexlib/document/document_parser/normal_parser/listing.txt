@@ -1,0 +1,10 @@
+indexlib/document/document_parser/normal_parser/extend_doc_fields_convertor.cpp
+indexlib/document/document_parser/normal_parser/extend_doc_fields_convertor.h
+indexlib/document/document_parser/normal_parser/multi_region_extend_doc_fields_convertor.cpp
+indexlib/document/document_parser/normal_parser/multi_region_extend_doc_fields_convertor.h
+indexlib/document/document_parser/normal_parser/normal_document_parser.cpp
+indexlib/document/document_parser/normal_parser/normal_document_parser.h
+indexlib/document/document_parser/normal_parser/null_field_appender.cpp
+indexlib/document/document_parser/normal_parser/null_field_appender.h
+indexlib/document/document_parser/normal_parser/single_document_parser.cpp
+indexlib/document/document_parser/normal_parser/single_document_parser.h

@@ -1,0 +1,11 @@
+file_system/stream/BUILD
+file_system/stream/BlockFileStream.cpp
+file_system/stream/BlockFileStream.h
+file_system/stream/CompressFileStream.cpp
+file_system/stream/CompressFileStream.h
+file_system/stream/FileStream.cpp
+file_system/stream/FileStream.h
+file_system/stream/FileStreamCreator.cpp
+file_system/stream/FileStreamCreator.h
+file_system/stream/NormalFileStream.cpp
+file_system/stream/NormalFileStream.h

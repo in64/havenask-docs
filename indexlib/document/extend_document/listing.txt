@@ -1,0 +1,4 @@
+indexlib/document/extend_document/classified_document.cpp
+indexlib/document/extend_document/classified_document.h
+indexlib/document/extend_document/indexlib_extend_document.h
+indexlib/document/extend_document/tokenize_document.h

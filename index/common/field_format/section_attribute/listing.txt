@@ -1,0 +1,8 @@
+index/common/field_format/section_attribute/BUILD
+index/common/field_format/section_attribute/InDocSectionMeta.h
+index/common/field_format/section_attribute/MultiSectionMeta.h
+index/common/field_format/section_attribute/SectionAttributeEncoder.cpp
+index/common/field_format/section_attribute/SectionAttributeEncoder.h
+index/common/field_format/section_attribute/SectionAttributeFormatter.cpp
+index/common/field_format/section_attribute/SectionAttributeFormatter.h
+index/common/field_format/section_attribute/SectionMeta.h

@@ -1,0 +1,3 @@
+indexlib/index/normal/attribute/accessor/attribute_segment_modifier.h
+indexlib/index/normal/attribute/accessor/built_attribute_segment_modifier.cpp
+indexlib/index/normal/attribute/accessor/built_attribute_segment_modifier.h

@@ -1,0 +1,9 @@
+indexlib/common/field_format/pack_attribute/PackValueAdapter.cpp
+indexlib/common/field_format/pack_attribute/PackValueAdapter.h
+indexlib/common/field_format/pack_attribute/attribute_reference.h
+indexlib/common/field_format/pack_attribute/attribute_reference_typed.h
+indexlib/common/field_format/pack_attribute/float_compress_convertor.h
+indexlib/common/field_format/pack_attribute/pack_attribute_formatter.cpp
+indexlib/common/field_format/pack_attribute/pack_attribute_formatter.h
+indexlib/common/field_format/pack_attribute/plain_format_encoder.cpp
+indexlib/common/field_format/pack_attribute/plain_format_encoder.h

@@ -1,0 +1,9 @@
+indexlib/index/normal/inverted_index/accessor/index_dedup_patch_file_merger.cpp
+indexlib/index/normal/inverted_index/accessor/index_dedup_patch_file_merger.h
+indexlib/index/normal/inverted_index/accessor/index_patch_merger.cpp
+indexlib/index/normal/inverted_index/accessor/index_patch_merger.h
+indexlib/index/normal/inverted_index/accessor/normal_index_merger.cpp
+indexlib/index/normal/inverted_index/accessor/normal_index_merger.h
+indexlib/index/normal/inverted_index/accessor/posting_merger.h
+indexlib/index/normal/inverted_index/accessor/posting_merger_impl.cpp
+indexlib/index/normal/inverted_index/accessor/posting_merger_impl.h

@@ -1,0 +1,3 @@
+table/index_task/add_index/BUILD
+table/index_task/add_index/PatchSegmentMoveOperation.cpp
+table/index_task/add_index/PatchSegmentMoveOperation.h

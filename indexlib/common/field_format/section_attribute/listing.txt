@@ -1,0 +1,4 @@
+indexlib/common/field_format/section_attribute/section_attribute_encoder.cpp
+indexlib/common/field_format/section_attribute/section_attribute_encoder.h
+indexlib/common/field_format/section_attribute/section_attribute_formatter.cpp
+indexlib/common/field_format/section_attribute/section_attribute_formatter.h

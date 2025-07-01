@@ -1,0 +1,5 @@
+indexlib/open_source/codegen/BUILD
+indexlib/open_source/codegen/code_factory.h
+indexlib/open_source/codegen/codegen_checker.h
+indexlib/open_source/codegen/codegen_info.h
+indexlib/open_source/codegen/codegen_object.h

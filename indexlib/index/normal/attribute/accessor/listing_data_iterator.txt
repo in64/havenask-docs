@@ -1,0 +1,6 @@
+indexlib/index/normal/attribute/accessor/attribute_data_iterator.cpp
+indexlib/index/normal/attribute/accessor/attribute_data_iterator.h
+indexlib/index/normal/attribute/accessor/single_value_data_iterator.h
+indexlib/index/normal/attribute/accessor/var_num_attribute_data_iterator.cpp
+indexlib/index/normal/attribute/accessor/var_num_attribute_data_iterator.h
+indexlib/index/normal/attribute/accessor/var_num_data_iterator.h

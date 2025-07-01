@@ -1,0 +1,3 @@
+indexlib/index/normal/inverted_index/builtin_index/expack/expack_index_merger.h
+indexlib/index/normal/inverted_index/builtin_index/expack/on_disk_expack_index_iterator.cpp
+indexlib/index/normal/inverted_index/builtin_index/expack/on_disk_expack_index_iterator.h

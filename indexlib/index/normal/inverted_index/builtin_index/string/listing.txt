@@ -1,0 +1,1 @@
+indexlib/index/normal/inverted_index/builtin_index/string/string_index_merger.h

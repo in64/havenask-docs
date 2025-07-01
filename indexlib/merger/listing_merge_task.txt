@@ -1,0 +1,12 @@
+indexlib/merger/merge_task.cpp
+indexlib/merger/merge_task.h
+indexlib/merger/merge_task_executor.cpp
+indexlib/merger/merge_task_executor.h
+indexlib/merger/merge_task_item.cpp
+indexlib/merger/merge_task_item.h
+indexlib/merger/merge_task_item_creator.cpp
+indexlib/merger/merge_task_item_creator.h
+indexlib/merger/merge_task_item_dispatcher.cpp
+indexlib/merger/merge_task_item_dispatcher.h
+indexlib/merger/parallel_end_merge_executor.cpp
+indexlib/merger/parallel_end_merge_executor.h

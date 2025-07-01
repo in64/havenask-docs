@@ -1,0 +1,10 @@
+table/normal_table/index_task/NormalTableAlterTablePlanCreator.cpp
+table/normal_table/index_task/NormalTableAlterTablePlanCreator.h
+table/normal_table/index_task/NormalTableCompactPlanCreator.cpp
+table/normal_table/index_task/NormalTableCompactPlanCreator.h
+table/normal_table/index_task/NormalTableReclaimPlanCreator.cpp
+table/normal_table/index_task/NormalTableReclaimPlanCreator.h
+table/normal_table/index_task/NormalTableSplitPlanCreator.cpp
+table/normal_table/index_task/NormalTableSplitPlanCreator.h
+table/normal_table/index_task/NormalTableTaskPlanCreator.cpp
+table/normal_table/index_task/NormalTableTaskPlanCreator.h

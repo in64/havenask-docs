@@ -1,0 +1,1 @@
+indexlib/common/field_format/spatial/geo_hash/geohash.h

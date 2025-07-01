@@ -1,0 +1,8 @@
+index/inverted_index/AndPostingExecutor.cpp
+index/inverted_index/AndPostingExecutor.h
+index/inverted_index/DocidRangePostingExecutor.h
+index/inverted_index/OrPostingExecutor.cpp
+index/inverted_index/OrPostingExecutor.h
+index/inverted_index/PostingExecutor.h
+index/inverted_index/TermPostingExecutor.cpp
+index/inverted_index/TermPostingExecutor.h

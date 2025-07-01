@@ -1,0 +1,3 @@
+indexlib/index/normal/inverted_index/format/BUILD
+indexlib/index/normal/inverted_index/format/index_format_option.cpp
+indexlib/index/normal/inverted_index/format/index_format_option.h

@@ -1,0 +1,4 @@
+indexlib/index/normal/attribute/accessor/attribute_modifier.cpp
+indexlib/index/normal/attribute/accessor/attribute_modifier.h
+indexlib/index/normal/attribute/accessor/inplace_attribute_modifier.cpp
+indexlib/index/normal/attribute/accessor/inplace_attribute_modifier.h

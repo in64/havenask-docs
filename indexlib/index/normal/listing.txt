@@ -1,0 +1,4 @@
+indexlib/index/normal/sorted_docid_range_searcher.cpp
+indexlib/index/normal/sorted_docid_range_searcher.h
+indexlib/index/normal/ttl_decoder.cpp
+indexlib/index/normal/ttl_decoder.h

@@ -1,0 +1,3 @@
+table/normal_table/config/BUILD
+table/normal_table/config/SegmentGroupConfig.cpp
+table/normal_table/config/SegmentGroupConfig.h

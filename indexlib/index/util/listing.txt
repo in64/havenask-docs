@@ -1,0 +1,12 @@
+indexlib/index/util/build_profiling_metrics.cpp
+indexlib/index/util/build_profiling_metrics.h
+indexlib/index/util/dump_item_typed.h
+indexlib/index/util/file_compress_param_helper.h
+indexlib/index/util/merger_resource.h
+indexlib/index/util/reclaim_map.cpp
+indexlib/index/util/reclaim_map.h
+indexlib/index/util/segment_directory_base.h
+indexlib/index/util/segment_output_mapper.cpp
+indexlib/index/util/segment_output_mapper.h
+indexlib/index/util/shard_partitioner.cpp
+indexlib/index/util/shard_partitioner.h

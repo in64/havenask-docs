@@ -1,0 +1,15 @@
+indexlib/partition/segment/kkv_segment_writer.h
+indexlib/partition/segment/kv_segment_writer.cpp
+indexlib/partition/segment/kv_segment_writer.h
+indexlib/partition/segment/multi_region_kkv_segment_writer.cpp
+indexlib/partition/segment/multi_region_kkv_segment_writer.h
+indexlib/partition/segment/multi_region_kv_segment_writer.cpp
+indexlib/partition/segment/multi_region_kv_segment_writer.h
+indexlib/partition/segment/multi_sharding_segment_writer.cpp
+indexlib/partition/segment/multi_sharding_segment_writer.h
+indexlib/partition/segment/segment_writer_util.cpp
+indexlib/partition/segment/segment_writer_util.h
+indexlib/partition/segment/single_segment_writer.cpp
+indexlib/partition/segment/single_segment_writer.h
+indexlib/partition/segment/sub_doc_segment_writer.cpp
+indexlib/partition/segment/sub_doc_segment_writer.h

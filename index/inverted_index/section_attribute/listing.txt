@@ -1,0 +1,13 @@
+index/inverted_index/section_attribute/BUILD
+index/inverted_index/section_attribute/InDocMultiSectionMeta.cpp
+index/inverted_index/section_attribute/InDocMultiSectionMeta.h
+index/inverted_index/section_attribute/SectionAttributeIndexFactory.cpp
+index/inverted_index/section_attribute/SectionAttributeIndexFactory.h
+index/inverted_index/section_attribute/SectionAttributeMemIndexer.cpp
+index/inverted_index/section_attribute/SectionAttributeMemIndexer.h
+index/inverted_index/section_attribute/SectionAttributeMerger.cpp
+index/inverted_index/section_attribute/SectionAttributeMerger.h
+index/inverted_index/section_attribute/SectionAttributeReaderImpl.cpp
+index/inverted_index/section_attribute/SectionAttributeReaderImpl.h
+index/inverted_index/section_attribute/SectionDataReader.cpp
+index/inverted_index/section_attribute/SectionDataReader.h

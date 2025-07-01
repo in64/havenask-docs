@@ -1,0 +1,4 @@
+indexlib/misc/common.h
+indexlib/misc/doc_tracer.h
+indexlib/misc/error_log_collector.h
+indexlib/misc/log.h

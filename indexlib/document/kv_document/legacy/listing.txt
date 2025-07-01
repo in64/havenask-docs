@@ -1,0 +1,3 @@
+indexlib/document/kv_document/legacy/kv_document.h
+indexlib/document/kv_document/legacy/kv_index_document.cpp
+indexlib/document/kv_document/legacy/kv_index_document.h

@@ -1,0 +1,16 @@
+indexlib/merger/document_reclaimer/and_index_reclaimer.cpp
+indexlib/merger/document_reclaimer/and_index_reclaimer.h
+indexlib/merger/document_reclaimer/document_deleter.cpp
+indexlib/merger/document_reclaimer/document_deleter.h
+indexlib/merger/document_reclaimer/document_reclaimer.cpp
+indexlib/merger/document_reclaimer/document_reclaimer.h
+indexlib/merger/document_reclaimer/index_field_reclaimer.cpp
+indexlib/merger/document_reclaimer/index_field_reclaimer.h
+indexlib/merger/document_reclaimer/index_reclaimer.cpp
+indexlib/merger/document_reclaimer/index_reclaimer.h
+indexlib/merger/document_reclaimer/index_reclaimer_creator.cpp
+indexlib/merger/document_reclaimer/index_reclaimer_creator.h
+indexlib/merger/document_reclaimer/index_reclaimer_param.cpp
+indexlib/merger/document_reclaimer/index_reclaimer_param.h
+indexlib/merger/document_reclaimer/obsolete_doc_reclaimer.cpp
+indexlib/merger/document_reclaimer/obsolete_doc_reclaimer.h

@@ -1,0 +1,5 @@
+legacy/index_base/BUILD
+legacy/index_base/PartitionMeta.cpp
+legacy/index_base/PartitionMeta.h
+legacy/index_base/SchemaAdapter.cpp
+legacy/index_base/SchemaAdapter.h

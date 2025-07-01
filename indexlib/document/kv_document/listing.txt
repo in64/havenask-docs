@@ -1,0 +1,5 @@
+indexlib/document/kv_document/kv_document.cpp
+indexlib/document/kv_document/kv_document.h
+indexlib/document/kv_document/kv_index_document.cpp
+indexlib/document/kv_document/kv_index_document.h
+indexlib/document/kv_document/kv_message.fbs

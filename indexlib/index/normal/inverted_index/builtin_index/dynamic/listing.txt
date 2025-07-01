@@ -1,0 +1,10 @@
+indexlib/index/normal/inverted_index/builtin_index/dynamic/dynamic_index_posting_writer.cpp
+indexlib/index/normal/inverted_index/builtin_index/dynamic/dynamic_index_posting_writer.h
+indexlib/index/normal/inverted_index/builtin_index/dynamic/dynamic_index_reader.cpp
+indexlib/index/normal/inverted_index/builtin_index/dynamic/dynamic_index_reader.h
+indexlib/index/normal/inverted_index/builtin_index/dynamic/dynamic_index_writer.cpp
+indexlib/index/normal/inverted_index/builtin_index/dynamic/dynamic_index_writer.h
+indexlib/index/normal/inverted_index/builtin_index/dynamic/dynamic_search_tree_node.cpp
+indexlib/index/normal/inverted_index/builtin_index/dynamic/dynamic_search_tree_node.h
+indexlib/index/normal/inverted_index/builtin_index/dynamic/in_mem_dynamic_index_segment_reader.cpp
+indexlib/index/normal/inverted_index/builtin_index/dynamic/in_mem_dynamic_index_segment_reader.h

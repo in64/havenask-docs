@@ -1,0 +1,15 @@
+table/normal_table/virtual_attribute/BUILD
+table/normal_table/virtual_attribute/Common.h
+table/normal_table/virtual_attribute/SingleVirtualAttributeBuilder.cpp
+table/normal_table/virtual_attribute/SingleVirtualAttributeBuilder.h
+table/normal_table/virtual_attribute/VirtualAttributeBuildWorkItem.cpp
+table/normal_table/virtual_attribute/VirtualAttributeBuildWorkItem.h
+table/normal_table/virtual_attribute/VirtualAttributeConfig.cpp
+table/normal_table/virtual_attribute/VirtualAttributeConfig.h
+table/normal_table/virtual_attribute/VirtualAttributeDiskIndexer.cpp
+table/normal_table/virtual_attribute/VirtualAttributeDiskIndexer.h
+table/normal_table/virtual_attribute/VirtualAttributeIndexFactory.cpp
+table/normal_table/virtual_attribute/VirtualAttributeIndexFactory.h
+table/normal_table/virtual_attribute/VirtualAttributeIndexReader.h
+table/normal_table/virtual_attribute/VirtualAttributeMemIndexer.cpp
+table/normal_table/virtual_attribute/VirtualAttributeMemIndexer.h

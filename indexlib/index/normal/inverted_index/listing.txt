@@ -1,0 +1,2 @@
+indexlib/index/normal/inverted_index/index_metrics.cpp
+indexlib/index/normal/inverted_index/index_metrics.h

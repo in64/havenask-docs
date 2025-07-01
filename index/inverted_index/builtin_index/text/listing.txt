@@ -1,0 +1,2 @@
+index/inverted_index/builtin_index/text/BUILD
+index/inverted_index/builtin_index/text/TextIndexMerger.h

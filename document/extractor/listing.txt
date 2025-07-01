@@ -1,0 +1,4 @@
+document/extractor/BUILD
+document/extractor/DocumentInfoExtractorType.h
+document/extractor/IDocumentInfoExtractor.h
+document/extractor/IDocumentInfoExtractorFactory.h

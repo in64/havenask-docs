@@ -1,0 +1,4 @@
+indexlib/index/normal/inverted_index/builtin_index/spatial/spatial_doc_value_filter.h
+indexlib/index/normal/inverted_index/builtin_index/spatial/spatial_index_merger.h
+indexlib/index/normal/inverted_index/builtin_index/spatial/spatial_index_reader.cpp
+indexlib/index/normal/inverted_index/builtin_index/spatial/spatial_index_reader.h

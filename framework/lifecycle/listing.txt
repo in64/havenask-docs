@@ -1,0 +1,11 @@
+framework/lifecycle/BUILD
+framework/lifecycle/DynamicLifecycleStrategy.cpp
+framework/lifecycle/DynamicLifecycleStrategy.h
+framework/lifecycle/LifecycleStrategy.cpp
+framework/lifecycle/LifecycleStrategy.h
+framework/lifecycle/LifecycleStrategyFactory.cpp
+framework/lifecycle/LifecycleStrategyFactory.h
+framework/lifecycle/LifecycleTableCreator.cpp
+framework/lifecycle/LifecycleTableCreator.h
+framework/lifecycle/StaticLifecycleStrategy.cpp
+framework/lifecycle/StaticLifecycleStrategy.h

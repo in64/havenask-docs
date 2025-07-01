@@ -1,0 +1,12 @@
+indexlib/index/normal/attribute/accessor/attribute_updater.cpp
+indexlib/index/normal/attribute/accessor/attribute_updater.h
+indexlib/index/normal/attribute/accessor/attribute_updater_creator.h
+indexlib/index/normal/attribute/accessor/attribute_updater_factory.cpp
+indexlib/index/normal/attribute/accessor/attribute_updater_factory.h
+indexlib/index/normal/attribute/accessor/date_attribute_updater.h
+indexlib/index/normal/attribute/accessor/float_attribute_updater_creator.h
+indexlib/index/normal/attribute/accessor/single_value_attribute_updater.h
+indexlib/index/normal/attribute/accessor/string_attribute_updater.h
+indexlib/index/normal/attribute/accessor/time_attribute_updater.h
+indexlib/index/normal/attribute/accessor/timestamp_attribute_updater.h
+indexlib/index/normal/attribute/accessor/var_num_attribute_updater.h

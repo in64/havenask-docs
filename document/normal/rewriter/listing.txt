@@ -1,0 +1,13 @@
+document/normal/rewriter/AddToUpdateDocumentRewriter.cpp
+document/normal/rewriter/AddToUpdateDocumentRewriter.h
+document/normal/rewriter/BUILD
+document/normal/rewriter/NormalDocumentRewriterBase.cpp
+document/normal/rewriter/NormalDocumentRewriterBase.h
+document/normal/rewriter/PackAttributeAppender.cpp
+document/normal/rewriter/PackAttributeAppender.h
+document/normal/rewriter/PackAttributeRewriter.cpp
+document/normal/rewriter/PackAttributeRewriter.h
+document/normal/rewriter/SectionAttributeAppender.cpp
+document/normal/rewriter/SectionAttributeAppender.h
+document/normal/rewriter/SectionAttributeRewriter.cpp
+document/normal/rewriter/SectionAttributeRewriter.h

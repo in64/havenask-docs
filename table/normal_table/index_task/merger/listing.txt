@@ -1,0 +1,17 @@
+table/normal_table/index_task/merger/AdaptiveMergeStrategy.cpp
+table/normal_table/index_task/merger/AdaptiveMergeStrategy.h
+table/normal_table/index_task/merger/BUILD
+table/normal_table/index_task/merger/BalanceTreeMergeStrategy.cpp
+table/normal_table/index_task/merger/BalanceTreeMergeStrategy.h
+table/normal_table/index_task/merger/CombinedMergeStrategy.cpp
+table/normal_table/index_task/merger/CombinedMergeStrategy.h
+table/normal_table/index_task/merger/NormalTableMergeStrategyUtil.cpp
+table/normal_table/index_task/merger/NormalTableMergeStrategyUtil.h
+table/normal_table/index_task/merger/NormalTabletMergeStrategyDefine.cpp
+table/normal_table/index_task/merger/NormalTabletMergeStrategyDefine.h
+table/normal_table/index_task/merger/NormalTabletOptimizeMergeStrategy.cpp
+table/normal_table/index_task/merger/NormalTabletOptimizeMergeStrategy.h
+table/normal_table/index_task/merger/PriorityQueueMergeStrategy.cpp
+table/normal_table/index_task/merger/PriorityQueueMergeStrategy.h
+table/normal_table/index_task/merger/SplitStrategy.cpp
+table/normal_table/index_task/merger/SplitStrategy.h

@@ -1,0 +1,3 @@
+base/proto/BUILD
+base/proto/query.proto
+base/proto/value.proto

@@ -1,0 +1,14 @@
+table/normal_table/DocRangePartitioner.cpp
+table/normal_table/DocRangePartitioner.h
+table/normal_table/NormalDiskSegment.cpp
+table/normal_table/NormalDiskSegment.h
+table/normal_table/NormalDocIdDispatcher.cpp
+table/normal_table/NormalDocIdDispatcher.h
+table/normal_table/NormalDocumentRewriteChainCreator.cpp
+table/normal_table/NormalDocumentRewriteChainCreator.h
+table/normal_table/NormalMemSegment.cpp
+table/normal_table/NormalMemSegment.h
+table/normal_table/SegmentSortDecisionMaker.cpp
+table/normal_table/SegmentSortDecisionMaker.h
+table/normal_table/SortedDocIdRangeSearcher.cpp
+table/normal_table/SortedDocIdRangeSearcher.h

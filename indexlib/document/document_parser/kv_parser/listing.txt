@@ -1,0 +1,16 @@
+indexlib/document/document_parser/kv_parser/fb_kv_raw_document_parser.cpp
+indexlib/document/document_parser/kv_parser/fb_kv_raw_document_parser.h
+indexlib/document/document_parser/kv_parser/kkv_document_parser.cpp
+indexlib/document/document_parser/kv_parser/kkv_document_parser.h
+indexlib/document/document_parser/kv_parser/kkv_keys_extractor.cpp
+indexlib/document/document_parser/kv_parser/kkv_keys_extractor.h
+indexlib/document/document_parser/kv_parser/kv_document_parser.cpp
+indexlib/document/document_parser/kv_parser/kv_document_parser.h
+indexlib/document/document_parser/kv_parser/kv_key_extractor.cpp
+indexlib/document/document_parser/kv_parser/kv_key_extractor.h
+indexlib/document/document_parser/kv_parser/kv_raw_document_parser.cpp
+indexlib/document/document_parser/kv_parser/kv_raw_document_parser.h
+indexlib/document/document_parser/kv_parser/multi_region_kkv_keys_extractor.cpp
+indexlib/document/document_parser/kv_parser/multi_region_kkv_keys_extractor.h
+indexlib/document/document_parser/kv_parser/multi_region_kv_key_extractor.cpp
+indexlib/document/document_parser/kv_parser/multi_region_kv_key_extractor.h

@@ -1,0 +1,12 @@
+index/inverted_index/IInvertedDiskIndexer.h
+index/inverted_index/IInvertedMemIndexer.h
+index/inverted_index/InvertedDiskIndexer.cpp
+index/inverted_index/InvertedDiskIndexer.h
+index/inverted_index/InvertedIndexerOrganizerUtil.cpp
+index/inverted_index/InvertedIndexerOrganizerUtil.h
+index/inverted_index/InvertedMemIndexer.cpp
+index/inverted_index/InvertedMemIndexer.h
+index/inverted_index/MultiShardInvertedDiskIndexer.cpp
+index/inverted_index/MultiShardInvertedDiskIndexer.h
+index/inverted_index/MultiShardInvertedMemIndexer.cpp
+index/inverted_index/MultiShardInvertedMemIndexer.h

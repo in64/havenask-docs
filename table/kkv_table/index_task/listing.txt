@@ -1,0 +1,7 @@
+table/kkv_table/index_task/BUILD
+table/kkv_table/index_task/KKVIndexMergeOperation.cpp
+table/kkv_table/index_task/KKVIndexMergeOperation.h
+table/kkv_table/index_task/KKVTableTaskOperationCreator.cpp
+table/kkv_table/index_task/KKVTableTaskOperationCreator.h
+table/kkv_table/index_task/KKVTableTaskPlanCreator.cpp
+table/kkv_table/index_task/KKVTableTaskPlanCreator.h

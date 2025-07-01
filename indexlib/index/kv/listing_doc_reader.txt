@@ -1,0 +1,2 @@
+indexlib/index/kv/doc_reader_base.cpp
+indexlib/index/kv/doc_reader_base.h

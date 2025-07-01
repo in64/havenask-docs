@@ -1,0 +1,7 @@
+index/common/field_format/date/BUILD
+index/common/field_format/date/DateFieldEncoder.cpp
+index/common/field_format/date/DateFieldEncoder.h
+index/common/field_format/date/DateQueryParser.cpp
+index/common/field_format/date/DateQueryParser.h
+index/common/field_format/date/DateTerm.cpp
+index/common/field_format/date/DateTerm.h

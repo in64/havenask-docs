@@ -1,0 +1,9 @@
+index/inverted_index/IndexDataWriter.h
+index/inverted_index/IndexFormatWriterCreator.cpp
+index/inverted_index/IndexFormatWriterCreator.h
+index/inverted_index/MultiSegmentPostingWriter.cpp
+index/inverted_index/MultiSegmentPostingWriter.h
+index/inverted_index/PostingDumper.h
+index/inverted_index/PostingWriter.h
+index/inverted_index/PostingWriterImpl.cpp
+index/inverted_index/PostingWriterImpl.h
